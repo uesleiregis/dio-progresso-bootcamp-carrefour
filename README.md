@@ -1,4 +1,4 @@
-# dio-progresso-bootcamp-carrefour
+# dio-progresso-bootcamp
 Primeiro repositório do curso Git/Github da DIO
 
 !!!
